@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B787FF&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Facundo;A+passionate+Frontend+Developer+from+Argentina" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=B787FF&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Facundo;A+passionate+Frontend+Developer+from+Argentina" alt="Typing SVG" /></a>
 
 
  📫 How to reach me:
@@ -6,15 +6,15 @@
  **facundo.mendez@live.com.ar**
 
 
- <h3 align="left" color:"#A693FFFF" >Connect with me:</h3>
+ <h3 align="left" color:"A693FFFF" >Connect with me:</h3>
 
- <p align="left" color:"#A693FFFF" >
+ <p align="left" color:"A693FFFF" >
  <a href="https://linkedin.com/in/www.linkedin.com/in/facundomendez7" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/facundomendez7" height="40" width="50" />
 </a>
 </p>
 
-<h3 align="left" color:"#A693FFFF" >Languages and Tools:</h3>
+<h3 align="left" color:"A693FFFF" >Languages and Tools:</h3>
     
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
