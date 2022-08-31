@@ -6,7 +6,7 @@
  **facundo.mendez@live.com.ar**
 
 
- <h3 align="left" color:"A693FFFF" >Connect with me:</h3>
+ <h3 align="left" text:"A693FFFF" >Connect with me:</h3>
 
  <p align="left" color:"A693FFFF" >
  <a href="https://linkedin.com/in/www.linkedin.com/in/facundomendez7" target="blank">
