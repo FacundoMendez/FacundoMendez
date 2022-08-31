@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&pause=1000&color=B787FF&width=950&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Facundo;A+passionate+Frontend+Developer+from+Argentina" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&pause=1000&color=B787FF&width=100&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Facundo;A+passionate+Frontend+Developer+from+Argentina" alt="Typing SVG" /></a>
 
 <p align="left" color:"#A693FFFF" > <img src="https://komarev.com/ghpvc/?username=facundomendez&label=Profile%20views&color=0e75b6&style=flat" alt="facundomendez" /> </p>
 
