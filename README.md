@@ -1,5 +1,6 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000color=B787FF&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Facundo;A+passionate+Frontend+Developer+from+Argentina"alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000color=B787FF&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Facundo;A+passionate+Frontend+Developer+from+Argentina"alt="Typing SVG" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facundomendez&label=Profile%20views&color=0e75b6&style=flat"alt="facundomendez" /> </p>
 - 📫 How to reach me **facundo.mendez@live.com.ar**
 <h3 align="left">Connect with me:</h3>
@@ -9,7 +10,6 @@
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svgalt="css3" width="40" height="40"/> 
@@ -23,7 +23,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svgalt="react" width="40" height="40"/> 
 </a> 
-
 </p>
 
 
