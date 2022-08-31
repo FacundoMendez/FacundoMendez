@@ -36,10 +36,10 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=facundomendez&show_icons=true&locale=en&layout=compact&cardType=level&theme=midnight-purple&Text=B787FF&Title=B183F7&Ring=B183F7&Border=AC95F7&Background=0A0010" alt="facundomendez" />
 </p>
 
-<br/><br/>
+<br/>
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=synthwave&Text=B787FF&Title=B183F7&Ring=B183F7&Border=AC95F7&Background=0A0010">    
 <img  alt="FacundoMendez's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FacundoMendez?cardType=level&theme=synthwave&Text=B787FF&Title=B183F7&Ring=B183F7&Border=AC95F7&Background=0A0010" />  
-</a> <br/><br/>
+</a> <br/>
 
 <p>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FacundoMendez&theme=github-dark&stroke=A693FF&sideLabels=DADDFF&dates=C0C5FF&currStreakLabel=C0C5FF&sideNums=C29FF7&ring=B183F7&fire=FF7B67&currStreakNum=AC95F7&border=AC95F7&background=0A0010" alt="facundomendez" />
