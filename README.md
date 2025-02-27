@@ -3,4 +3,5 @@
 </p><br/>
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=synthwave&Text=B787FF&Title=B183F7&Ring=B183F7&Border=AC95F7&Background=0A0010"> 
 <img  alt="FacundoMendez's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FacundoMendez?cardType=level&theme=synthwave&Text=B787FF&Title=B183F7&Ring=B183F7&Border=AC95F7&Background=000000" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FacundoMendez&theme=dark&hide_border=false" style="width: 100%; height: 300px;"/><br/>
 </a> 
